@@ -15,3 +15,7 @@
 
 ## Ubuntu бол
 `sudo apt install build-essential`
+
+### ubuntu дээр compile хийхдээ
+
+`g++ -o main main.cpp && ./main`
