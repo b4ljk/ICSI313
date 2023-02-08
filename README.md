@@ -9,11 +9,9 @@
 ```
 2.
 `brew install gcc`
-3.
 `brew install make`
-4.
 `brew install gdb`
-5.
 `brew install valgrind`
 
-## Windows бол
+## Ubuntu бол
+`sudo apt install build-essential`
