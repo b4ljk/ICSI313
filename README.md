@@ -14,6 +14,13 @@
 `brew install valgrind`
 
 ## Ubuntu бол
+
+### Clone хийж авахдаа terminal дээрээс
+
+`sudo apt install git`
+
+`git clone https://github.com/b4ljk/ICSI313.git`
+
 `sudo apt install build-essential`
 
 ### ubuntu дээр compile хийхдээ
