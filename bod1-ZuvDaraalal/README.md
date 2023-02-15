@@ -12,7 +12,7 @@
 <p><strong>Оролт:</strong></p>
 <p>&emsp;5 CBabA</p>
 <p><strong>Гаралт:</strong></p>
-<p>&emsp;4 2 BabA)</p>
+<p>&emsp;4 2 BabA</p>
 
 <p><strong>Оролт:</strong></p>
 <p>&emsp;5
@@ -20,8 +20,4 @@ CBAbd</p>
 <p><strong>Гаралт:</strong></p>
 <p>&emsp;0</p>
 
-<p><strong>Жишээ зурагнууд</strong></p>
-<span><image src="./input.png" width="400px" height="400px" alt="Convex Hull Input"></span>
-<span><image src="./output.png" width="400px" height="400px" alt="Convex Hull Input"></span>
-<image src="./example.png" width="600px" height="200px" alt="Convex Hull Example">
 <hr>
